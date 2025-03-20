@@ -10,3 +10,4 @@ for shop, products in shopping_dict.items():
 total = sum(len(products) for products in shopping_dict.values())
 print("W sumie kupuję", total, "produktów.")
 print("'Hiszpańska inkwizycja' to najlepszy skecz grupy Monty Pythona")
+print("Nie jest to temat adekwatny do tego zadania")
